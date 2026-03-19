@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Footer.jpg" alt="Footer illustration" width="100%" />
+  <img src="Footer.png" alt="Footer illustration" width="100%" />
 </p>
 
 ---
